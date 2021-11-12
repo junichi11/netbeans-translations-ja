@@ -14,6 +14,7 @@ Original repository: https://github.com/borisheithecker/netbeans-translations-de
 - https://github.com/junichi11/netbeans-translations-ja/releases からnbmをダウンロードします。
 - Tools > Plugins > Downloaded の`Add Plugins`ボタンでダウンロードしたnbmを選択して、`Install`ボタンを押します。
 - ダイアログの表示を進めて、NetBeansを再起動したら、日本語化されているはずです。
+- ニーモニックなしのものを使いたい場合はファイル名が `org-apache-netbeans-localise-ja-*-no-mnemonic.nbm`のものをダウンロードしてください。
 
 もし、日本語化されない場合は、コマンドラインで起動オプションとして`--locale ja`を追加して、起動してみてください。
 
