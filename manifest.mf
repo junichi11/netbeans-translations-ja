@@ -2,4 +2,4 @@ Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: true
 OpenIDE-Module: org.apache.netbeans.localise.ja
 OpenIDE-Module-Localizing-Bundle: org/apache/netbeans/localise/ja/Bundle.properties
-OpenIDE-Module-Specification-Version: 0.0.2
+OpenIDE-Module-Specification-Version: 0.0.3
